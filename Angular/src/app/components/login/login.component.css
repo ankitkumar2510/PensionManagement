@@ -1,0 +1,11 @@
+.container-body{
+    height: 650px;  
+    color: #fff;
+    background-image: url("../../../assets/images/1.jpg");  
+    background-size: 100%;  
+    background-size: cover;
+}
+
+button{
+    padding: 5px 25px;
+}
